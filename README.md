@@ -1,7 +1,7 @@
 # Netflix Content Engagement Analysis
 
 ## Project Overview
-This project conducts a comprehensive exploratory data analysis (EDA) of Netflix streaming content to understand viewer engagement trends. Utilizing a dataset that includes metrics such as hours viewed, global availability, release dates, ratings, and genres, this analysis seeks to uncover patterns that could inform content strategy and acquisition decisions for the platform.
+This project conducts a comprehensive analysis of Netflix streaming content to understand viewer engagement trends. Utilizing a dataset that includes metrics such as hours viewed, global availability, release dates, ratings, and genres, this analysis seeks to uncover patterns that could inform content strategy and acquisition decisions for the platform.
 
 ## Key Objectives
 - Evaluate the cumulative hours watched across different years.
